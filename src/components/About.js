@@ -12,22 +12,21 @@ const About = () => {
             <div>
               <h4 className="h-color">⚡ Commands</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                We have all major server commands included in this bot..
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✉️ 24/7 Support</h4>
+              <h4 className="h-color">✉️ ER:LC Intergration </h4>
               <p className="p-color">
-                The biggest support community server for the bot available for
-                you anytime.
+                We can intercept your ER:LC - Discord webhook in order to have unique features such as automatic VC Checkingl
               </p>
               <hr />
             </div>
             <div>
               <h4 className="h-color">✏️ Customization</h4>
               <p className="p-color">
-                Fully customizable discord bot completely FREE!
+                Enable or disable every section as you desire.
               </p>
               <hr />
             </div>
