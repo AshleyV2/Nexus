@@ -19,7 +19,8 @@ const About = () => {
             <div>
               <h4 className="h-color">✉️ ER:LC Intergration </h4>
               <p className="p-color">
-                We can intercept your ER:LC - Discord webhook in order to have unique features such as automatic VC Checkingl
+                We can intercept your ER:LC - Discord webhook in order to have 
+                unique features such as automatic VC Checkingl
               </p>
               <hr />
             </div>
